@@ -1,27 +1,15 @@
-# Weather-app
+# Weather
 
-https://webclima.herokuapp.com/
-
-## Deploy to Heroku
-Step 1: Make your account on "openweathermap" and get your api key.
-<br/>
-Step 2: Deploy to Heroku
-<br/>
-<br/>
-     [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-## A app designed in ReactJs using "openweathermap" api.
-Just entered the City and Country and get the temperature , humidity etc.
-
-### Prerequisites:
-1. Any javascript IDE supporting Javascript.
-2. Make your account on "openweathermap" and get your api key.
-
-### How to Set up?
-Step 1: Install dependencies 
-        ``` npm install ``` <br/>
-        
-Step 2: Paste your api key int the code.. The key here is some random number...
+https://kvn201.com.ua/celsius-to-kelvin-conversion.htm
 
 
-### HAPPY HACKING!!
+Температура в weather показывается в кельвинах.
+
+Формула для перевода Кульвины в Цельсия
+°C = °К — 273,15 или наоборот °K = °C + 273,15
+
+# Команды для запуска проекта
+
+npm install
+
+npm start
